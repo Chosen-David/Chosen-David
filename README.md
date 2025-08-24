@@ -9,6 +9,7 @@ I also maintain my own **CSDN blog**, and you are very welcome to check it out: 
 
 
 - **CUDA_learn_notes**: A collection of my **CUDA learning notes and journey**, documenting my progress and experiments in GPU programming.  
-- **InfiniTensor**: An open-source **AI compiler**. I actively participate in the [InfiniTensor open-source community](https://github.com/InfiniTensor/) and have successfully passed **all the exams**.  
-- **CPP_learn**: My **C++ learning notes and projects**, where I record my practice and understanding of C++ programming.  
+- **InfiniTensor**: An open-source **AI compiler**. I actively participate in the [InfiniTensor open-source community](https://github.com/InfiniTensor/) and have successfully passed **all the exams**.
+- **operators**: A library of **operators supporting the AI compiler InfiniTensor**, providing optimized implementations of fundamental tensor operations.
+- **CPP_learn_notes**: My **C++ learning notes and projects**, where I record my practice and understanding of C++ programming.  
 
